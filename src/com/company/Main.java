@@ -7,7 +7,6 @@ public class Main {
 
     public static void main(String[] args) {           //В методе вводится и вычисляется сумма двух дробных чисел
         System.out.println("Введите первое число");
-
         Scanner scanner = new Scanner(System.in);
         float a = scanner.nextFloat();
         System.out.println("Введите второе число");
